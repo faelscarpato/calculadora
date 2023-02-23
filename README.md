@@ -5,7 +5,7 @@
 
 Este é um repositório contendo o código-fonte para uma calculadora básica em JavaScript. A calculadora foi criada usando HTML, CSS e JavaScript puro.
 
-![logotipo crido por mim](./img/CALCU.png)
+![logotipo crido por mim](./CALCU.png)
 
 
 # Funcionalidades
