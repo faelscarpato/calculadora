@@ -1,5 +1,12 @@
+
+
+
 # Calculadora em JavaScript
+
 Este é um repositório contendo o código-fonte para uma calculadora básica em JavaScript. A calculadora foi criada usando HTML, CSS e JavaScript puro.
+
+![logotipo crido por mim](./img/CALCU.png)
+
 
 # Funcionalidades
 A calculadora pode realizar operações básicas de adição, subtração, multiplicação e divisão, bem como operações mais complexas, como calcular a raiz quadrada e elevar um número a uma potência específica.
